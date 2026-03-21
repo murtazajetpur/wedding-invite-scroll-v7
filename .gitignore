@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+pptr_out*.txt
+test_pptr.cjs
+output v*.mp4
